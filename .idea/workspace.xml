@@ -9,16 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f25b816-c3f9-4d50-be98-fd52dce7e6c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myTest_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileSearchApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="5f25b816-c3f9-4d50-be98-fd52dce7e6c1" name="Changes" comment="searching files">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myTest_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/myTest_jar/myTest.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +89,34 @@
       <updated>1688058380891</updated>
       <workItem from="1688058381191" duration="1377000" />
       <workItem from="1688059802855" duration="1165000" />
-      <workItem from="1688061005280" duration="1852000" />
+      <workItem from="1688061005280" duration="2273000" />
     </task>
+    <task id="LOCAL-00001" summary="searching files">
+      <created>1688062985558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688062985558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="searching files" />
+    <option name="LAST_COMMIT_MESSAGE" value="searching files" />
   </component>
 </project>
