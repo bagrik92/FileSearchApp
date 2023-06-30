@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f25b816-c3f9-4d50-be98-fd52dce7e6c1" name="Changes" comment="searching files">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myTest_jar2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/myTest_jar/myTest.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTest_jar/myTest.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/myTest_jar/myTest.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileSearchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FileSearchApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JAR Application.myTest.jar">
+  <component name="RunManager" selected="Application.FileSearchApp">
     <configuration name="FileSearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.FileSearchApp" />
       <module name="myTest" />
@@ -74,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.myTest.jar" />
         <item itemvalue="Application.FileSearchApp" />
+        <item itemvalue="JAR Application.myTest.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +90,8 @@
       <updated>1688058380891</updated>
       <workItem from="1688058381191" duration="1377000" />
       <workItem from="1688059802855" duration="1165000" />
-      <workItem from="1688061005280" duration="2273000" />
+      <workItem from="1688061005280" duration="3099000" />
+      <workItem from="1688124135146" duration="6166000" />
     </task>
     <task id="LOCAL-00001" summary="searching files">
       <created>1688062985558</created>

@@ -53,7 +53,8 @@ public class FileSearchApp {
             for (File file : files) {
                 if (file.isDirectory()) {
                     executorService.execute(() -> searchFiles(fileName, file, foundFiles, executorService));
-                } else if (file.getName().matches(fileName)) {
+                } else if (file.getName().contains(fileName) ||
+                        file.getName().matches(fileName.replace("*", ".*"))) {
                     synchronized (foundFiles) {
                         foundFiles.add(file);
                     }
